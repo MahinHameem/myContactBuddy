@@ -1,0 +1,12 @@
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/file_selector_windows_plugin.dll
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/images/img.png
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/dts17/Desktop/white/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

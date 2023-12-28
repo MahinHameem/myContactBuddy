@@ -1,0 +1,13 @@
+C:/Users/dts17/Desktop/white/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/dts17/Desktop/white/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/dts17/Desktop/white/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dts17/Desktop/white/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/dts17/Desktop/white/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/dts17/Desktop/white/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/dts17/Desktop/white/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/dts17/Desktop/white/build/windows/runner/CMakeFiles/contact_buddy.dir
+C:/Users/dts17/Desktop/white/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/dts17/Desktop/white/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/dts17/Desktop/white/build/windows/plugins/file_selector_windows/CMakeFiles/file_selector_windows_plugin.dir
+C:/Users/dts17/Desktop/white/build/windows/plugins/file_selector_windows/CMakeFiles/INSTALL.dir
+C:/Users/dts17/Desktop/white/build/windows/plugins/file_selector_windows/CMakeFiles/ALL_BUILD.dir
